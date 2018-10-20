@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mercury Test Automation Suite">
+  <test name="Navigate to Home Page">
+  	<classes>
+  		<class name="com.Sakiv.TestCases.Navigation"/>
+  	</classes>
+  </test> <!-- Test -->
+  
+  <test name="Login to Mercury Application">
+  	<classes>
+  		<class name="com.Sakiv.TestCases.LoginTest"/>
+  	</classes>
+  </test> <!-- Test -->
+  
+  <test name="Booking Reservation">
+  	<classes>
+  		<class name="com.Sakiv.TestCases.ReservationTest"/>
+  	</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

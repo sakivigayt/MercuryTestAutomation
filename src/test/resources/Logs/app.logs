@@ -1,0 +1,23 @@
+20/10/2018 17:42:40 devpinoyLogger Config File Loaded
+20/10/2018 17:42:40 devpinoyLogger OR File loaded
+20/10/2018 17:42:44 devpinoyLogger Chrome Driver Instantiated
+20/10/2018 17:42:47 devpinoyLogger App Launched
+20/10/2018 17:42:47 devpinoyLogger Navigated to :http://newtours.demoaut.com
+20/10/2018 17:42:47 devpinoyLogger mercury set in :/html/body/div[1]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[3]/form/table/tbody/tr[4]/td/table/tbody/tr[2]/td[2]/input
+20/10/2018 17:42:47 devpinoyLogger mercury set in :/html/body/div[1]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[3]/form/table/tbody/tr[4]/td/table/tbody/tr[3]/td[2]/input
+20/10/2018 17:42:54 devpinoyLogger button /html/body/div[1]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[3]/form/table/tbody/tr[4]/td/table/tbody/tr[4]/td[2]/div/inputclicked
+20/10/2018 17:42:54 devpinoyLogger Login successful
+20/10/2018 17:42:54 devpinoyLogger radio button //input[@value='Business']selected
+20/10/2018 17:42:54 devpinoyLogger User Preference Selected
+20/10/2018 17:42:54 devpinoyLogger radio button //input[@value='roundtrip']selected
+20/10/2018 17:42:54 devpinoyLogger 1 selected from //select[@name='passCount']drop down
+20/10/2018 17:42:54 devpinoyLogger Zurich selected from //select[@name='fromPort']drop down
+20/10/2018 17:42:54 devpinoyLogger May selected from //select[@name='fromMonth']drop down
+20/10/2018 17:42:54 devpinoyLogger 5 selected from //select[@name='fromDay']drop down
+20/10/2018 17:42:54 devpinoyLogger Sydney selected from //select[@name='toPort']drop down
+20/10/2018 17:42:54 devpinoyLogger June selected from //select[@name='toMonth']drop down
+20/10/2018 17:42:55 devpinoyLogger 9 selected from //select[@name='toDay']drop down
+20/10/2018 17:42:55 devpinoyLogger Flight Details Selected
+20/10/2018 17:42:56 devpinoyLogger button //input[@name='findFlights']clicked
+20/10/2018 17:42:56 devpinoyLogger Flight details submitted
+20/10/2018 17:42:59 devpinoyLogger driver killed
